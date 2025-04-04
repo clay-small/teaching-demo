@@ -7,7 +7,7 @@
 
 
 
-## Can use rbinom() to get us random single-locus genotypes for 100 individuals.
+## Can use rbinom() to get us random single-locus genotypes for 500 individuals.
 ## We want how many "successes" result from 2 trials (2 alleles per diploid genotype).
 ## Remember, with 2 trials we can get 0, 1 or 2 "successes."
 
